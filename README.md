@@ -2,7 +2,6 @@
 
 I'm a 24-year-old self-taught student, comfortable on both sides of the machine
 
-[![Email](https://img.shields.io/badge/garofalomichele2001@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garofalomichele2001@gmail.com)
 [![Discord](https://img.shields.io/badge/rhaastrake-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 ---
