@@ -42,7 +42,6 @@ I'm a 24-year-old self-taught student, comfortable on both sides of the machine
 ## 🚀 Nibula
 
 [![npm](https://img.shields.io/npm/v/nibula?logo=npm&color=CB3837)](https://www.npmjs.com/package/nibula)
-[![downloads](https://img.shields.io/npm/dm/nibula?logo=npm&color=CB3837)](https://www.npmjs.com/package/nibula)
 [![license](https://img.shields.io/npm/l/nibula?color=blue)](https://github.com/Rhaastrake/Nibula/blob/main/LICENSE)
 [![stars](https://img.shields.io/github/stars/Rhaastrake/Nibula?style=flat&logo=github)](https://github.com/Rhaastrake/Nibula/stargazers)
 
