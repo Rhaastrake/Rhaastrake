@@ -31,11 +31,11 @@ I'm a 24-year-old self-taught student, comfortable on both sides of the machine
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white)
 
 ---
 
