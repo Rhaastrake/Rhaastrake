@@ -34,12 +34,14 @@ I'm a 24-year-old self-taught student, comfortable on both sides of the machine
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Npm](https://img.shields.io/badge/Npm-C53635?logo=npm&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-296DD3?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMFptMS44IDE3LjRjLTMuMSAwLTUuMS0yLjItNS4xLTUuMyAwLTMuNiAyLjUtNi41IDUuNi02LjUgMS44IDAgMy4xIDEgMy4xIDIuNCAwIC44LS41IDEuNS0xLjIgMS41LS41IDAtLjktLjMtLjktLjkgMC0uMi4xLS41LjEtLjcgMC0uNy0uNS0xLjEtMS4zLTEuMS0xLjkgMC0zLjMgMi4zLTMuMyA0LjkgMCAyLjEgMS4xIDMuNSAyLjkgMy41IDEuMyAwIDIuNC0uOCAzLjEtMS45LjEtLjIuMy0uMy41LS4zLjMgMCAuNS4yLjUuNSAwIC4xIDAgLjItLjEuNC0uOSAxLjctMi41IDMuNS00LjkgMy41WiIvPjwvc3ZnPg==)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTAgOC44NzdMMi4yNDcgNS45MWw4LjQwNS0zLjQxNlYuMDIybDcuMzcgNS4zOTNMMi45NjYgOC4zMzh2OC4yMjVMMCAxNS43MDd6bTI0LTQuNDV2MTQuNjUxbC01Ljc1MyA0LjktOS4zMDMtMy4wNTd2My4wNTZsLTUuOTc4LTcuNDE2IDE1LjA1NyAxLjc5OFY1LjQxNXoiLz48L3N2Zz4=)
 
 **Operating Systems**
 
