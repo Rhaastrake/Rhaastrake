@@ -20,7 +20,7 @@ I'm a 24-year-old self-taught student, comfortable on both sides of the machine
 ![NJK](https://img.shields.io/badge/Nunjucks-1E4814?logo=nunjucks&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MySQL-4479A1?logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 
 **Frameworks**
 
