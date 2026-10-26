@@ -67,4 +67,6 @@ npm i -g nibula
 nib new my-site
 ```
 
-→ [**Repository**](https://github.com/Rhaastrake/Nibula) · [**npm**](https://www.npmjs.com/package/nibula)
+→ [**Repository**](https://github.com/Rhaastrake/Nibula)
+→ [**Documentation**](https://nibula.dev/docs)
+→ [**npm**](https://www.npmjs.com/package/nibula)
